@@ -1,0 +1,9 @@
+a = 5
+b = 3
+print("a + b = ", a + b)
+print("a - b = ", a - b)
+print("a * b = ", a * b)
+print("a / b = ", a / b)
+print("a // b = ", a // b) # floor number to integer ตัดเศษ
+print("a % b = ", a % b)   # get division remainder เอาเฉพาะเศษ
+print("a ** b = ", a ** b) # power
